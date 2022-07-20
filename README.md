@@ -1,4 +1,4 @@
-# Mujvesmir.cz
+# Můj vesmír (My universe)
 
 My first website ever, created when I was about 9 years old, a little bit updated (the second menu link is not working anymore so I replaced the target by the index.html file)
 
